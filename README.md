@@ -1,5 +1,7 @@
 # rtl8812AU
 forked from https://github.com/diederikdehaas/rtl8812AU.git
+
+
 This repository contains drivers for the rtl8812AU and rtl8821AU/rtl8811AU chipsets.
 
 It started out because I found a newer driver then I found elsewhere, namely version 4.3.8.
